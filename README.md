@@ -1,4 +1,4 @@
-# Knowing flutter
+# Starting flutter
 
 My first flutter project.
 
@@ -6,4 +6,4 @@ My first flutter project.
 
 This project is a first touch with flutter.
 
-![](lib\images\preview.png)
+![](/lib//images//preview.png)
